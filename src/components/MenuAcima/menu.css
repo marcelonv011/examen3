@@ -1,0 +1,35 @@
+.cabezal{
+    background-color: red;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.logo{
+  margin: 0px 0px 0 75px;
+  height: 70px;
+  width: 100px;
+  float: left;
+}
+
+nav ul {
+  width: 1000px;
+  margin: 17px 0px 0 320px;
+}
+
+nav ul li{
+  line-height: 35px;
+  display: inline-block;
+  padding-right: 50px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
