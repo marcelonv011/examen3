@@ -14,7 +14,7 @@ function MenuAcima() {
           <li><a href="#">Principal</a></li>
           <li><a href="#">Sobre nosotros</a></li>
           <li><a href="#">Ja tenho conta</a></li>
-          <li><a href="#">Proximamente</a></li>
+          <li><a href="#">Proximamentee</a></li>
             </ul>
         </nav>
     </div>  
